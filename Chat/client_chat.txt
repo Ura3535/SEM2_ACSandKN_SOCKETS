@@ -1,0 +1,5 @@
+client:  Hello
+client:  HI
+client:  qwertyuio
+server:  1223457
+client:  FVECwnjmkfmjNAEWIJ;WFMOKvjwin;cKMChIBUCANiJESVKLvksdvsbhKVJDL/svh.SKD
